@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2589" dy="1596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -179,12 +179,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="31d5PwhxR0wAVE4Sb7d_" name="Page-2">
-    <mxGraphModel dx="6920" dy="2490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5936" dy="1832" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ADdKbOvr9OxGY5025vm9-167" value="Financial Fraud via Phishing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="2280" width="120" height="80" as="geometry" />
+          <mxGeometry x="-635" y="3135" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-170" target="ADdKbOvr9OxGY5025vm9-200">
           <mxGeometry relative="1" as="geometry" />
@@ -196,7 +196,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-170" value="Lateral Movement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="2661" width="120" height="60" as="geometry" />
+          <mxGeometry x="-325" y="3516" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-177" target="ADdKbOvr9OxGY5025vm9-203">
           <mxGeometry relative="1" as="geometry" />
@@ -208,7 +208,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-177" value="Final Impact" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="2664" width="120" height="60" as="geometry" />
+          <mxGeometry x="-85" y="3519" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-180" target="ADdKbOvr9OxGY5025vm9-248">
           <mxGeometry relative="1" as="geometry" />
@@ -217,7 +217,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-180" value="Execution &amp; Exploitation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="2661" width="120" height="60" as="geometry" />
+          <mxGeometry x="-725" y="3516" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-184" target="ADdKbOvr9OxGY5025vm9-187">
           <mxGeometry relative="1" as="geometry" />
@@ -229,7 +229,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-184" value="Initial Infection&lt;div&gt;(Phishing Email)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1246" y="2661" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1261" y="3516" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-185" target="ADdKbOvr9OxGY5025vm9-190">
           <mxGeometry relative="1" as="geometry" />
@@ -238,7 +238,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-185" value="User Action" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-1080" y="2800" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1095" y="3655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-186" target="ADdKbOvr9OxGY5025vm9-220">
           <mxGeometry relative="1" as="geometry" />
@@ -247,101 +247,101 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-186" value="Email Contains" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-1246" y="2800" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1261" y="3655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-187" value="Spear Phishing Targeting Finance Dept" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-1390" y="2800" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1405" y="3655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-190" target="ADdKbOvr9OxGY5025vm9-199">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-190" value="Clicks Phishing Link" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-1080" y="2927" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1095" y="3782" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-194" target="ADdKbOvr9OxGY5025vm9-198">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-194" value="Opens Malicious PDF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="2927" width="120" height="60" as="geometry" />
+          <mxGeometry x="-945" y="3782" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-198" value="Executes Hidden Macro" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="3047" width="120" height="60" as="geometry" />
+          <mxGeometry x="-945" y="3902" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-199" value="Enters Banking Credentials" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1080" y="3047" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1095" y="3902" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-200" value="Exploits SMB for System Propagation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="2927" width="120" height="60" as="geometry" />
+          <mxGeometry x="-325" y="3782" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-201" value="Uses Stolen Credentials to Access Internal Network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="2800" width="120" height="60" as="geometry" />
+          <mxGeometry x="-325" y="3655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-202" value="Deletion of Logs &amp; Traces" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="2933" width="120" height="60" as="geometry" />
+          <mxGeometry x="-85" y="3788" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-203" value="Unauthorized Funds Transfer to Offshore Accounts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="2803" width="120" height="60" as="geometry" />
+          <mxGeometry x="-85" y="3658" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-206" value="Deploys Ransomware to Disrupt Further Investigations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="3050" width="120" height="60" as="geometry" />
+          <mxGeometry x="-85" y="3905" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-207" value="Computer" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="2410" width="120" height="80" as="geometry" />
+          <mxGeometry x="-635" y="3265" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-208" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1184" y="2591" as="sourcePoint" />
-            <mxPoint x="-10" y="2591" as="targetPoint" />
+            <mxPoint x="-1199" y="3446" as="sourcePoint" />
+            <mxPoint x="-25" y="3446" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-210" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0068" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-650.36" y="2591" as="sourcePoint" />
-            <mxPoint x="-650.36" y="2661.0000000000005" as="targetPoint" />
+            <mxPoint x="-665.36" y="3446" as="sourcePoint" />
+            <mxPoint x="-665.36" y="3516.0000000000005" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-211" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-250" y="2591" as="sourcePoint" />
-            <mxPoint x="-250" y="2661" as="targetPoint" />
+            <mxPoint x="-265" y="3446" as="sourcePoint" />
+            <mxPoint x="-265" y="3516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-212" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10.379999999999995" y="2594" as="sourcePoint" />
-            <mxPoint x="-10.379999999999995" y="2664" as="targetPoint" />
+            <mxPoint x="-25.379999999999995" y="3449" as="sourcePoint" />
+            <mxPoint x="-25.379999999999995" y="3519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-213" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.516;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ADdKbOvr9OxGY5025vm9-184">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1184" y="2591" as="sourcePoint" />
-            <mxPoint x="-1124" y="2621" as="targetPoint" />
+            <mxPoint x="-1199" y="3446" as="sourcePoint" />
+            <mxPoint x="-1139" y="3476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-217" value="" style="endArrow=none;html=1;rounded=0;exitX=0.508;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-207">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-559" y="2409" as="sourcePoint" />
-            <mxPoint x="-559" y="2360" as="targetPoint" />
+            <mxPoint x="-574" y="3264" as="sourcePoint" />
+            <mxPoint x="-574" y="3215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-220" target="6-L4_wkneTpCRCNKvnSP-233">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-220" value="Phishing Link&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-1246" y="2927" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1261" y="3782" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-221" target="6-L4_wkneTpCRCNKvnSP-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-221" value="Fake Urgent Payment Request PDF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-1390" y="2927" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1405" y="3782" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-245" value="Establishes Encrypted C2 Connection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="3047" width="120" height="60" as="geometry" />
+          <mxGeometry x="-725" y="3902" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-246" value="Downloads Remote Access Trojan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="2927" width="120" height="60" as="geometry" />
+          <mxGeometry x="-725" y="3782" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-247" target="ADdKbOvr9OxGY5025vm9-253">
           <mxGeometry relative="1" as="geometry" />
@@ -350,7 +350,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-247" value="Credential Theft" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-536" y="2800" width="120" height="60" as="geometry" />
+          <mxGeometry x="-551" y="3655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADdKbOvr9OxGY5025vm9-248" target="ADdKbOvr9OxGY5025vm9-245">
           <mxGeometry relative="1" as="geometry" />
@@ -359,21 +359,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-248" value="Macro Executes PowerShell Script" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="2800" width="120" height="60" as="geometry" />
+          <mxGeometry x="-725" y="3655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-253" value="Mimikatz Used for Hash Dumping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-536" y="3047" width="120" height="60" as="geometry" />
+          <mxGeometry x="-551" y="3902" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-254" value="Keylogger Activated (Captures Login Data)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-536" y="2927" width="120" height="60" as="geometry" />
+          <mxGeometry x="-551" y="3782" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-259" value="eploys Additional Payloads (Banking Trojan)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="3050" width="120" height="60" as="geometry" />
+          <mxGeometry x="-325" y="3905" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADdKbOvr9OxGY5025vm9-261" value="" style="endArrow=none;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ADdKbOvr9OxGY5025vm9-207">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-554" y="2590" as="sourcePoint" />
-            <mxPoint x="20" y="2730" as="targetPoint" />
+            <mxPoint x="-569" y="3445" as="sourcePoint" />
+            <mxPoint x="5" y="3585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-1" value="Financial Fraud via Synthesized Phishing-Based Malware Attack" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -548,13 +548,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-44" value="Uses AI-based behavioral detection evasion (AI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-804" y="1644" width="120" height="60" as="geometry" />
+          <mxGeometry x="-767" y="1644" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-431" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-45" target="6-L4_wkneTpCRCNKvnSP-430">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-45" value="Executes fileless malware to bypass AV (AI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="1644" width="120" height="60" as="geometry" />
+          <mxGeometry x="-923" y="1644" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-435" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-48" target="6-L4_wkneTpCRCNKvnSP-53">
           <mxGeometry relative="1" as="geometry" />
@@ -563,28 +563,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-48" value="Keylogger &amp; Credential Dumping Activated (Manual)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-524" y="1517" width="120" height="60" as="geometry" />
+          <mxGeometry x="-536" y="1517" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-51" target="6-L4_wkneTpCRCNKvnSP-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6-L4_wkneTpCRCNKvnSP-427" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-51" target="6-L4_wkneTpCRCNKvnSP-44">
+        <mxCell id="6-L4_wkneTpCRCNKvnSP-427" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-51" target="6-L4_wkneTpCRCNKvnSP-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-51" value="AI-Optimized Macro Execution &amp; PowerShell Abuse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="1517" width="120" height="60" as="geometry" />
+          <mxGeometry x="-843" y="1517" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-441" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-52" target="6-L4_wkneTpCRCNKvnSP-439">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-52" value="Encrypts and exfiltrates sensitive data (AI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="1644" width="120" height="60" as="geometry" />
+          <mxGeometry x="-462" y="1644" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-440" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-53" target="6-L4_wkneTpCRCNKvnSP-439">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-53" value="Steals session tokens and credentials (Manual)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="1644" width="120" height="60" as="geometry" />
+          <mxGeometry x="-602" y="1644" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-454" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-54" target="6-L4_wkneTpCRCNKvnSP-451">
           <mxGeometry relative="1" as="geometry" />
@@ -799,10 +799,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-232" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Embedded Malware&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1390" y="3050" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1405" y="3905" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-233" value="Fake Internal Banking Login Page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-1246" y="3050" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1261" y="3905" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-239" value="AI-Generated Synthetic Identities for Covert Espionage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3088" y="1563" width="120" height="60" as="geometry" />
@@ -1120,37 +1120,37 @@
           <mxGeometry x="-1200" y="1764" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-428" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Regularly update endpoint protection solutions and use PowerShell monitoring&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="1990" width="120" height="60" as="geometry" />
+          <mxGeometry x="-843" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-434" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-429" target="6-L4_wkneTpCRCNKvnSP-428">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-429" value="&lt;meta charset=&quot;utf-8&quot;&gt;Continuously monitor endpoint behaviors to detect any deviations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="1880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-843" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-433" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-430" target="6-L4_wkneTpCRCNKvnSP-429">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-430" value="&lt;meta charset=&quot;utf-8&quot;&gt;behavioral detection technologies to detect and block fileless malware " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="1764" width="120" height="60" as="geometry" />
+          <mxGeometry x="-843" y="1764" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-437" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;sup&gt;Educate employees about secure password practices and implement additional authentication methods&lt;/sup&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-524" y="1990" width="120" height="60" as="geometry" />
+          <mxGeometry x="-536" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-443" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-438" target="6-L4_wkneTpCRCNKvnSP-437">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-438" value="&lt;meta charset=&quot;utf-8&quot;&gt;Enable advanced detection systems that monitor user activity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-524" y="1880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-536" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-442" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-439" target="6-L4_wkneTpCRCNKvnSP-438">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-439" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-524" y="1767" width="120" height="60" as="geometry" />
+          <mxGeometry x="-536" y="1767" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-444" value="Use credential management systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-524" y="1767" width="120" height="60" as="geometry" />
+          <mxGeometry x="-536" y="1767" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-L4_wkneTpCRCNKvnSP-460" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6-L4_wkneTpCRCNKvnSP-448" target="6-L4_wkneTpCRCNKvnSP-459">
           <mxGeometry relative="1" as="geometry" />
