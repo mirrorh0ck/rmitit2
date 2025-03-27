@@ -1527,6 +1527,588 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-40" value="AI-Hybrid Cyber Espionage Targeting the Energy Sector" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6212" y="1062" width="198" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-41" value="Computer" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6249" y="1194" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5320" y="1402" as="sourcePoint" />
+            <mxPoint x="7900" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="0.0068" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6021.33" y="1405" as="sourcePoint" />
+            <mxPoint x="6021.33" y="1479.9999999999998" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7169.92" y="1406" as="sourcePoint" />
+            <mxPoint x="7169.17" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Jk-c6WQWzUIczbGab7_8-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5310" y="1405" as="sourcePoint" />
+            <mxPoint x="5432.17" y="1475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-46" value="" style="endArrow=none;html=1;rounded=0;exitX=0.508;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6310" y="1193" as="sourcePoint" />
+            <mxPoint x="6310" y="1144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Jk-c6WQWzUIczbGab7_8-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6315" y="1404" as="sourcePoint" />
+            <mxPoint x="6419" y="1544" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-51" target="Jk-c6WQWzUIczbGab7_8-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-51" target="Jk-c6WQWzUIczbGab7_8-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5239.86" y="1722" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-51" target="Jk-c6WQWzUIczbGab7_8-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-51" value="&lt;meta charset=&quot;utf-8&quot;&gt;Reconnaissance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5249.86" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-55" target="Jk-c6WQWzUIczbGab7_8-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-55" target="Jk-c6WQWzUIczbGab7_8-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-55" target="Jk-c6WQWzUIczbGab7_8-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-55" value="Exploitation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6422" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-58" target="Jk-c6WQWzUIczbGab7_8-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-58" target="Jk-c6WQWzUIczbGab7_8-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-58" value="&lt;meta charset=&quot;utf-8&quot;&gt;Target Identification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5249.86" y="1621" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-61" target="Jk-c6WQWzUIczbGab7_8-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-61" value="&lt;meta charset=&quot;utf-8&quot;&gt;Select Phishing Delivery Mechanism" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5249.86" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-64" target="Jk-c6WQWzUIczbGab7_8-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-64" target="Jk-c6WQWzUIczbGab7_8-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-64" value="&lt;meta charset=&quot;utf-8&quot;&gt;Prepare Phishing Content" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5249.86" y="1765" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-65" value="High-ranking officials" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5589.86" y="1646" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-67" target="Jk-c6WQWzUIczbGab7_8-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-67" target="Jk-c6WQWzUIczbGab7_8-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-67" value="&lt;meta charset=&quot;utf-8&quot;&gt;Research bank employees for high-value targets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5419.86" y="1561" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-68" value="Administrators" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5589.86" y="1561" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-69" value="Create realistic phishing emails" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5589.86" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-71" target="Jk-c6WQWzUIczbGab7_8-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-71" value="&lt;meta charset=&quot;utf-8&quot;&gt;Use OSINT to gather data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5419.86" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-73" target="Jk-c6WQWzUIczbGab7_8-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-73" value="&lt;meta charset=&quot;utf-8&quot;&gt;Use deepfake technology" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5419.86" y="1852" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-74" target="Jk-c6WQWzUIczbGab7_8-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-74" value="Impersonate trusted sources" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5589.86" y="1852" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-76" target="Jk-c6WQWzUIczbGab7_8-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-76" value="&lt;meta charset=&quot;utf-8&quot;&gt;Craft emails containing malicious links" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5419.86" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-77" value="Fake websites or attachments " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5589.86" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-82" target="Jk-c6WQWzUIczbGab7_8-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-82" target="Jk-c6WQWzUIczbGab7_8-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-82" target="Jk-c6WQWzUIczbGab7_8-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-82" value="&lt;meta charset=&quot;utf-8&quot;&gt;Engagement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5962" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-86" target="Jk-c6WQWzUIczbGab7_8-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-86" target="Jk-c6WQWzUIczbGab7_8-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-86" value="&lt;meta charset=&quot;utf-8&quot;&gt;Spear-Phishing Attack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5872" y="1619" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-90" target="Jk-c6WQWzUIczbGab7_8-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-90" target="Jk-c6WQWzUIczbGab7_8-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-90" value="&lt;meta charset=&quot;utf-8&quot;&gt;Malicious Attachment Activation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5872" y="1782" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-93" target="Jk-c6WQWzUIczbGab7_8-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-93" value="&lt;meta charset=&quot;utf-8&quot;&gt;Execute Malware via Macros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5872" y="1948.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-95" target="Jk-c6WQWzUIczbGab7_8-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-95" value="Targeted phishing emails are sent to high-value employees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6062" y="1547" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-96" value="Pretending to come from trusted sources" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6242" y="1547" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-97" target="Jk-c6WQWzUIczbGab7_8-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-97" value="&lt;meta charset=&quot;utf-8&quot;&gt;Attachments or links" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6062" y="1619" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-99" target="Jk-c6WQWzUIczbGab7_8-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-99" value="Recipient opens the email attachment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6062" y="1782" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-100" target="Jk-c6WQWzUIczbGab7_8-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-100" value="Triggers the installation of the malicious software," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6062" y="1859" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-105" target="Jk-c6WQWzUIczbGab7_8-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-105" value="Macro enables fileless malware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6062" y="1948.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-106" target="Jk-c6WQWzUIczbGab7_8-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-106" value="Bypassing antivirus solutions" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6242" y="1948.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-113" target="Jk-c6WQWzUIczbGab7_8-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-113" target="Jk-c6WQWzUIczbGab7_8-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-113" value="&lt;meta charset=&quot;utf-8&quot;&gt;Keylogger Installation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6422" y="1619" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-117" target="Jk-c6WQWzUIczbGab7_8-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-117" target="Jk-c6WQWzUIczbGab7_8-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-117" value="&lt;meta charset=&quot;utf-8&quot;&gt;Privilege Escalation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6422" y="1792" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-121" target="Jk-c6WQWzUIczbGab7_8-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-121" target="Jk-c6WQWzUIczbGab7_8-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-121" value="&lt;meta charset=&quot;utf-8&quot;&gt;Credential Stuffing &amp;amp; Lateral Movement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6422" y="2002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-122" value="`" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-123" target="Jk-c6WQWzUIczbGab7_8-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-123" target="Jk-c6WQWzUIczbGab7_8-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-123" target="Jk-c6WQWzUIczbGab7_8-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-123" value="&lt;meta charset=&quot;utf-8&quot;&gt;Malware installed by the macro includes a keylogger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6592" y="1572" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-124" value="Records the victim&#39;s keystrokes" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6762" y="1519" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-126" target="Jk-c6WQWzUIczbGab7_8-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-126" value="&lt;meta charset=&quot;utf-8&quot;&gt;Privilege Escalation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6592" y="1663" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-127" value="Aaccess the internal banking systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6762" y="1663" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-132" target="Jk-c6WQWzUIczbGab7_8-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-132" value="&lt;meta charset=&quot;utf-8&quot;&gt;Once inside the system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6592" y="1792" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-213" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-133" target="Jk-c6WQWzUIczbGab7_8-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-133" value="The malware escalates privileges" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6762" y="1792" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-134" target="Jk-c6WQWzUIczbGab7_8-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-134" value="Allows attacker to manipulate internal systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6592" y="1876" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-139" target="Jk-c6WQWzUIczbGab7_8-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-139" value="&lt;meta charset=&quot;utf-8&quot;&gt;Using the captured credentials" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6592" y="2002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-217" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-140" target="Jk-c6WQWzUIczbGab7_8-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-140" value="Attackers perform credential stuffing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6762" y="2002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-142" target="Jk-c6WQWzUIczbGab7_8-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-142" value="&lt;meta charset=&quot;utf-8&quot;&gt;The attacker moves laterally across the network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6592" y="2092" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-144" target="Jk-c6WQWzUIczbGab7_8-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-144" value="Gaining access" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6762" y="2092" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-145" value="More sensitive data and systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6922" y="2092" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-149" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6481.75" y="1406" as="sourcePoint" />
+            <mxPoint x="6481" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-152" target="Jk-c6WQWzUIczbGab7_8-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-152" target="Jk-c6WQWzUIczbGab7_8-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-152" value="&lt;meta charset=&quot;utf-8&quot;&gt;Transaction Manipulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7110" y="1609" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-153" target="Jk-c6WQWzUIczbGab7_8-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-153" target="Jk-c6WQWzUIczbGab7_8-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-153" target="Jk-c6WQWzUIczbGab7_8-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-153" value="&lt;meta charset=&quot;utf-8&quot;&gt;Data Exfiltration and Financial Fraud " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7110" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-156" target="Jk-c6WQWzUIczbGab7_8-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-156" value="Stealthy Data Exfiltration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7110" y="2052" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-159" target="Jk-c6WQWzUIczbGab7_8-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-159" target="Jk-c6WQWzUIczbGab7_8-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-159" value="&lt;meta charset=&quot;utf-8&quot;&gt;ATM Control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7110" y="1825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-161" target="Jk-c6WQWzUIczbGab7_8-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-161" value="&lt;meta charset=&quot;utf-8&quot;&gt;Using elevated access" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7290" y="1609" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-162" target="Jk-c6WQWzUIczbGab7_8-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-162" value="Attackers manipulate financial transactions" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7470" y="1609" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-164" target="Jk-c6WQWzUIczbGab7_8-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-164" value="&lt;meta charset=&quot;utf-8&quot;&gt;They modify internal records to cover up fraudulent activities " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7290" y="1705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-165" value="Avoid detection by auditors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7470" y="1705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-167" target="Jk-c6WQWzUIczbGab7_8-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-167" value="Attacker gain access to ATM systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7290" y="1825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-168" value="Manipulating users to dispense large amounts of cash at pre-designated times" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7470" y="1825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-170" target="Jk-c6WQWzUIczbGab7_8-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-170" value="The total financial loss" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7290" y="1922" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-171" value="Contributing to the multi-layered fraud scheme" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7470" y="1922" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-173" target="Jk-c6WQWzUIczbGab7_8-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-173" value="&lt;meta charset=&quot;utf-8&quot;&gt;Attackers use encrypted channels" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7290" y="2052" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-175" target="Jk-c6WQWzUIczbGab7_8-225">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-175" target="Jk-c6WQWzUIczbGab7_8-227">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-175" target="Jk-c6WQWzUIczbGab7_8-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-175" value="Exfiltrate sensitive financial data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7470" y="2052" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-176" value="Compromised systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7630" y="1970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-183" value="&lt;meta charset=&quot;utf-8&quot;&gt;Collect publicly available personal and professional information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5419.86" y="1646" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-191" value="Impersonate trusted sources" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5589.86" y="1942" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-195" target="Jk-c6WQWzUIczbGab7_8-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-195" value="&lt;meta charset=&quot;utf-8&quot;&gt;Attachments or links" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6242" y="1619" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-197" value="Fake websites are included to execute the malware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6242" y="1701" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-199" value="Automatically runs macros that enable the malware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6242" y="1782" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-202" value="Begins to operate undetected in the background" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6242" y="1859" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-208" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-205" target="Jk-c6WQWzUIczbGab7_8-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-205" value="&lt;meta charset=&quot;utf-8&quot;&gt;malware uses system vulnerabilities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6242" y="2052" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-207" value="Execute commands and spread further." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6062" y="2052" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-210" value="Captures login credentials" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6762" y="1589" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-212" value="Giving the attacker administrator-level access" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6922" y="1792" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-214" value="Financial systems and ATMs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6762" y="1877" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-216" value="&lt;meta charset=&quot;utf-8&quot;&gt;accessing other connected systems within the network" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6922" y="2002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-218" value="Transferring money to offshore accounts." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7640" y="1609" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-225" value="&lt;meta charset=&quot;utf-8&quot;&gt;transaction histories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7630" y="2052" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-227" value="&lt;meta charset=&quot;utf-8&quot;&gt;internal communication logs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7630" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-237" value="&lt;meta charset=&quot;utf-8&quot;&gt;Concealment &amp;amp; Persistence " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7840" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-238" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Jk-c6WQWzUIczbGab7_8-237">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7900" y="1400" as="sourcePoint" />
+            <mxPoint x="8210" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-269" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-239" target="Jk-c6WQWzUIczbGab7_8-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-239" target="Jk-c6WQWzUIczbGab7_8-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-239" target="Jk-c6WQWzUIczbGab7_8-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-239" value="&lt;meta charset=&quot;utf-8&quot;&gt;Mask the Origin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7840" y="1894" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-240" target="Jk-c6WQWzUIczbGab7_8-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-240" target="Jk-c6WQWzUIczbGab7_8-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-240" value="&lt;meta charset=&quot;utf-8&quot;&gt;Maintain Persistence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7840" y="1705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-241" target="Jk-c6WQWzUIczbGab7_8-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-241" target="Jk-c6WQWzUIczbGab7_8-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-241" value="&lt;meta charset=&quot;utf-8&quot;&gt;Delete Traces and Logs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7840" y="1607" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-242" target="Jk-c6WQWzUIczbGab7_8-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-242" value="&lt;meta charset=&quot;utf-8&quot;&gt;Attackers erase logs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8020" y="1529" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-244" target="Jk-c6WQWzUIczbGab7_8-245">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-244" value="&lt;meta charset=&quot;utf-8&quot;&gt;modify records" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8170" y="1529" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-245" target="Jk-c6WQWzUIczbGab7_8-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-245" value="&lt;meta charset=&quot;utf-8&quot;&gt;delete emails" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8320" y="1529" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-248" value="Conceal their presence in the system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8470" y="1529" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-256" target="Jk-c6WQWzUIczbGab7_8-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-256" value="&lt;meta charset=&quot;utf-8&quot;&gt;Security monitoring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8020" y="1607" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-258" value="Ensure that no evidence of the attack remains" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8170" y="1607" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-260" value="Maintain long-term access to the system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8170" y="1705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-261" target="Jk-c6WQWzUIczbGab7_8-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-261" value="&lt;meta charset=&quot;utf-8&quot;&gt;Backdoors and remote access tools (RATs) are installed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8020" y="1705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-264" value="Backdoors carry out additional fraudulent activities in the future without detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8020" y="1783" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-267" target="Jk-c6WQWzUIczbGab7_8-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-267" target="Jk-c6WQWzUIczbGab7_8-270">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-267" value="&lt;meta charset=&quot;utf-8&quot;&gt;Attackers mask their IP addresses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8020" y="1894" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-270" target="Jk-c6WQWzUIczbGab7_8-275">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-270" value="Using VPN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8180" y="1942" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-271" target="Jk-c6WQWzUIczbGab7_8-275">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-271" value="Using proxies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8180" y="1852" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-275" value="Hide the origin of the attack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8350" y="1894" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-278" target="Jk-c6WQWzUIczbGab7_8-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-278" value="&lt;meta charset=&quot;utf-8&quot;&gt;Fake email accounts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8020" y="2002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk-c6WQWzUIczbGab7_8-279" target="Jk-c6WQWzUIczbGab7_8-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-279" value="&lt;meta charset=&quot;utf-8&quot;&gt;shell companies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8020" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jk-c6WQWzUIczbGab7_8-280" value="Obscure the attackers&#39; identities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8180" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
